@@ -6,7 +6,7 @@ dataset/
 
 dataset/images/
 checkpoints/
-models/
+
 weights/
 
 *.h5
