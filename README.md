@@ -119,5 +119,3 @@ If you use this code, please cite:
 - This study: Adhikary, S. (2025). A Comparative Deep Learning Study of CNN, RNN,
   and Vision Transformers for Ancient Egyptian Hieroglyph Classification.
 =======
-# -Ancient-Egyptian-Hieroglyph-Classification-
->>>>>>> 88f11792aa063753638c55850093728a89b93076
